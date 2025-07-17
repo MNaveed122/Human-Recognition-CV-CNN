@@ -7,9 +7,9 @@ The model asks for the **number of classes (people or objects)**, along with the
 It then captures images accordingly and uses them to train a CNN.  
 Once training is complete, the model can **recognize the person or object live via webcam**.
 
-📄 The system is interactive and fully customizable — from dataset size to training epochs.
+ The system is interactive and fully customizable — from dataset size to training epochs.
 
----
+
 
 ## How to Run:
 
